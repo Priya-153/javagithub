@@ -6,3 +6,4 @@ ColorRemove.java:https://github.com/Priya-153/javagithub/blob/main/Screenshot%20
 colorsort.java:https://github.com/user-attachments/assets/fccaa924-7a31-4eb6-ac1a-badb7bd30124
 module-info.java:https://github.com/user-attachments/assets/810cdea3-56f8-4ebf-ace3-1a979d531763
 p2.java:https://github.com/user-attachments/assets/20efde64-19a9-443c-9f36-1207931c965a" 
+p1.java:https://github.com/user-attachments/assets/faf7c76e-df12-4e0d-a2ef-915203ddee33" 
