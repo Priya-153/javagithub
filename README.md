@@ -12,4 +12,4 @@ ColorTabbrdPaneRGB.java:https://chatgpt.com/s/m_69eba12b99008191a6710b81b33df0b0
 CountryListDemo:https://chatgpt.com/s/m_69eba2eda69081918c811ae0aebca5af
 CountryCapitalList.java:https://github.com/user-attachments/assets/363255c0-cb7f-4066-ab64-a865eeec1e0a
 ColorTabbedPaneCMY.java:https://github.com/user-attachments/assets/3edd39d1-a201-4bc3-9707-8dffeb0aec06
-
+StringOperationsDemo.java:https://chatgpt.com/s/m_69ec7e3604848191a4bedf9903633416
